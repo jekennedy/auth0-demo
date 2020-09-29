@@ -17,4 +17,4 @@ This demo showcases out-of-the-box User Registration and Login with the Auth0 Pl
 
 *Account Linking*: Simply click the Login / Signup button to begin a user journey. You can sign-up via Email / Password, and then sign-up again using a Google account (with the same email address) to see the Account Linking flow. 
 
-*Social Login*: During initial login, you can choose to Sign-in with Google to by-pass the manual sign-up flow. 
+*Social Login*: During initial login, you can choose to Sign-in with Google to bypass the manual sign-up flow. 
